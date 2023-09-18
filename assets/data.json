@@ -1,0 +1,54 @@
+{
+    "result": [
+    {
+    "title": "The Time Traveler's Wife",
+    "authorId": 1,
+    "authorName": "Audrey Niffenegger",
+    
+    "bookCoverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380660571i/18619684.jpg",
+    
+    "categoryName": "Science Fiction",
+    "categoryId": 10
+    },
+    {
+    "title": "The Time Machine",
+    "authorId": 2,
+    "authorName": "H.G. Wells",
+    
+    "bookCoverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327942880i/2493.jpg",
+    
+    "categoryName": "Science Fiction",
+    "categoryId": 10
+    },
+    {
+    "title": "'Salem's Lot",
+    "authorId": 3,
+    "authorName": "Stephen King",
+    
+    "bookCoverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327891565i/11590.jpg",
+    
+    "categoryName": "Horror",
+    "categoryId": 11
+    },
+    
+    {
+    "title": "Dracula",
+    "authorId": 4,
+    "authorName": "Bram Stoker",
+    
+    "bookCoverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
+    
+    "categoryName": "Horror",
+    "categoryId": 11
+    },{
+    "title": "Steve Jobs",
+    "authorId": 5,
+    "authorName": "Walter Isaacson",
+    
+    "bookCoverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511288482i/11084145.jpg",
+    
+    "categoryName": "Biography",
+    "categoryId": 12
+    }
+    ]
+    }
